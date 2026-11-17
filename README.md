@@ -6,6 +6,7 @@
 - Registry name: `net.0bull/phone-farm` ([official MCP Registry](https://registry.modelcontextprotocol.io), Smithery, Glama)
 - Docs: <https://docs.0bull.net/mcp/overview> · Tool reference: <https://docs.0bull.net/mcp/tools>
 - Phones: <https://0bull.net/pricing>
+- Demo video: [ChatGPT controls a real iPhone with the 0bull MCP server](https://www.youtube.com/watch?v=SN7vgcsE_tk)
 
 ## What an agent can do on the phone
 
