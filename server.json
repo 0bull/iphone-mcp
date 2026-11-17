@@ -1,0 +1,7 @@
+{
+  "name": "net.0bull/phone-farm",
+  "title": "0bull",
+  "description": "Remote MCP server for real, hosted iPhones: see the screen, tap and type, run an AI phone agent, and post to TikTok, Instagram and YouTube.",
+  "websiteUrl": "https://docs.0bull.net/mcp/overview",
+  "remotes": [{ "type": "streamable-http", "url": "https://0bull.net/mcp" }]
+}
